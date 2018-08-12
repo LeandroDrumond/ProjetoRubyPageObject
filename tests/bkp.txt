@@ -1,0 +1,6 @@
+ # if (customer.gender.eql?('M'))
+            #    self.gender_m.click
+            #end
+            #if (customer.gender.eql?('F'))
+             #   self.gender_f.click
+            #end  
